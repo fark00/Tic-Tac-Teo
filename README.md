@@ -17,7 +17,7 @@
 * Then copy libgcc_s_sjlj-1.dll (To the project Dir) in my case: ***cp /usr/lib/gcc/i686-w64-mingw32/9.3-win32/libgcc_s_sjlj-1.dll ~/Documents/'cpp codes'***
 * Then copy libstdc++-6.dll (To the project Dir)in my case: ***cp /usr/lib/gcc/i686-w64-mingw32/9.3-win32/libstdc++-6.dll ~/Documents/'cpp codes'***
 * Download w32api zip from te web site then unzip it in the working Dir, im my case: ***w32api-3.17-2-mingw32-dev.tar.lzma***
-* ex : /usr/bin/i686-w64-mingw32-g++ -I w32api/include/ -L w32api/lib/ Tic-Tac-Teo.cpp (create a.exe)
+* ex : /usr/bin/i686-w64-mingw32-g++ -I w32api/include/ -L w32api/lib/ Tic-Tac-Teo.c (create a.exe)
 * **Enjoy!**
 
 ## Example:
