@@ -35,3 +35,8 @@ Telegram id:
 
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
+## License
+[MIT](https://github.com/fark00/Tic-Tac-Toe/blob/master/LICENSE)
+&#0169;
+[Farzaneh Koohestani](https://github.com/fark00)
+
