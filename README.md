@@ -23,6 +23,7 @@
 ## Example:
 <img src="https://github.com/fark00/Tic-Tac-Toe/blob/master/exe.gif">
 
+
 ## Support
 
 **Contact me @:**
@@ -36,7 +37,6 @@ Telegram id:
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/fark00/Tic-Tac-Toe/blob/master/LICENSE)
-&#0169;
-[Farzaneh Koohestani](https://github.com/fark00)
-
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
